@@ -1,0 +1,8 @@
+PyQt6==6.5.2
+scapy==2.5.0
+pyqtgraph==0.13.3
+pandas==2.0.3
+numpy==1.24.3
+psutil==5.9.5
+translate==3.6.1
+netifaces
