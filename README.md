@@ -91,9 +91,14 @@ This project is built for cybersecurity professionals, penetration testers, and 
 
 ---
 
-## 🤝 Contributing | مشارکت
+## 🤝 Contributing
 
-Contributions are welcome! Please submit a Pull Request.  
+Contributions are welcome! Please read our [Contributing Guidelines](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) to get started.
+
+## 🤝 مشارکت
+
+مشارکت‌های شما خوش‌آمد است! لطفاً [راهنمای مشارکت](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) را مطالعه کنید.
+ 
 هرگونه مشارکت و توسعه خوش‌آمد است! لطفاً Pull Request ارسال کنید.
 
 ---
@@ -116,4 +121,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Note for Windows Users | توجه برای کاربران ویندوز
 
 You may need to install Npcap or WinPcap for packet capture on Windows. Download it from [Npcap](https://npcap.com/).  
+
 برای ضبط بسته‌ها در ویندوز، ممکن است نیاز به نصب Npcap یا WinPcap داشته باشید. می‌توانید آن را از [اینجا](https://npcap.com/) دانلود کنید.
